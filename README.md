@@ -1,2 +1,1 @@
-# OpenBG-LAMA
-The code is coming soon.
+This repo is coming soon.
